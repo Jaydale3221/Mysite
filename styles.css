@@ -1,0 +1,134 @@
+ body{
+  margin-top: 0;
+   text-align:center;
+
+
+ font-family: 'Merriweather', serif;
+       font-size: 180%;
+
+    }
+h1{
+  margin : 50px auto 0 auto;
+  font-size: 6rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+   }
+
+h2{
+ font-family: 'Montserrat', sans-serif;
+ font-size: 2.3rem;
+ color: #66BFBF;
+
+}
+
+h3{
+   font-family: 'Montserrat', sans-serif;
+   color:  #11999E;
+   font-weight: normal;
+}
+
+
+.top{
+   background-color: #E4F9F5;
+  position:relative;
+  padding-top: 100px;
+ }
+
+.middle-container{
+  margin: 100px 0;
+  }
+
+ .bottom-container{
+   background-color: blue;
+
+}
+.Dev{
+  text-decoration: underline;
+}
+
+.Top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+.bottom-cloud{
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+ }
+ .profile{
+   border-radius: 50%;
+ }
+
+ .footer-link{
+   color:  #11999E;
+  }
+
+.btn{
+   color:  #11999E;
+}
+
+.skill-row{
+  width: 50% ;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+
+
+}
+.img1{
+  margin-bottom: 300px;
+  width: 25%;
+  float: left;
+ margin-right: 30px;
+
+}
+
+.img2{
+  width: 25%;
+  text-align: right;
+ float: right;
+  margin-left: 30px;
+  margin-bottom: 250px;
+ }
+ .contact-me{
+   text-align: center;
+ }
+ hr{
+   width: 5%;
+   border-top: 10px dotted ;
+   color: grey;
+ }
+
+ .social{
+   margin-bottom: 300px;
+   width: 25%;
+   float: left;
+  margin-right: 30px;
+
+ }
+
+
+ }
+.footer-link{
+  margin-top: 0;
+  position: absolute;
+  margin-top: 0;
+}
+
+.connect{
+  text-align: left;
+    width: 20%;
+ margin-left: 20px;
+ }
+
+.ConImg{
+  margin-top: 0;
+   position: relative;
+ bottom: 150px;
+   margin-top: 0;
+}
+
+.Copyright{
+  font-size: 20px;
+ }
